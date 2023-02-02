@@ -2,3 +2,7 @@ picanha
 cerveja
 mais cerveja
 feijoada
+limao
+sal
+vodka
+
