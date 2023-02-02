@@ -1,2 +1,6 @@
 picanha
 cerveja
+limao
+sal
+vodka
+
